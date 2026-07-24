@@ -21,13 +21,6 @@ A Minecraft bot that helps keep an Aternos server online 24/7 by automatically j
 
 ---
 
-## 🚀 Setup Guide
-
-We have made setup super easy! Check out the guide below:
-
-[**Detailed Google Doc Guide**](https://docs.google.com/document/d/1Fl0dRzP6O30ehp5-QcaB11IobF8I1JJhKUipzCWiCYA/edit?tab=t.0).
-
----
 
 ## ⚙️ Usage
 *   **Start**: Just turn on your Aternos server. The bot will join automatically.
