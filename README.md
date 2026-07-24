@@ -1,4 +1,4 @@
-# 🤖 Slobos & Mr. Juice Aternos 24/7 Hosting Bot
+# 🤖 Aternos 24/7 Hosting Bot by Neetesj
 
 A Minecraft bot that helps keep an Aternos server online 24/7 by automatically joining it using a Mineflayer-based bot. Perfect for SMPs or small multiplayer servers that shut down when no players are online.
 
@@ -42,7 +42,6 @@ This project is not affiliated with Aternos, Mojang, or Microsoft. Use at your o
 ---
 
 ## ❤️ Credits
-*   **Slobos (Discord: sloboscc)** — Original creator & idea. (The GOAT 🐐)
-*   **Mr.Juice (Discord: Mr.Juice3046)** — Updates, Guide, & Maintenance.
+*   **Neetesh (Discord: neeteshog.)** — Original creator & idea. (The GOAT 🐐)
 
 **License**: MIT License
